@@ -44,4 +44,4 @@ Your submission must include the following information:
 - **December XXX 2020** or before announcement of selected speakers
 - **January XXX 2020** last date to upload the pre-recorded talk
 - **Conference dates 6 & 7 February 2021 online**
-- **Sunday February 7th 2021** Web Performance devroom at FOSDEM21 **onlin*e*!
+- **Sunday February 7th 2021** Web Performance devroom at FOSDEM21 **online**!
