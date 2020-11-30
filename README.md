@@ -1,6 +1,6 @@
 # FOSDEM 2021 Call for Participation: Web Performance
 
-[FOSDEM](https://fosdem.org/2021/) is a Free Software event that offers free software communities a place to meet, share ideas and collaborate. Tis year the event will not take place in a physical location but online.
+[FOSDEM](https://fosdem.org/2021/) is a Free Software event that offers free software communities a place to meet, share ideas and collaborate. This year the event will not take place in a physical location but online.
 
 * The reference time will be Brussels local lime (CET).
 * Talks will be pre-recorded in advance, and streamed during the event.
