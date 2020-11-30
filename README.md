@@ -5,8 +5,8 @@
 * The reference time will be Brussels local lime (CET).
 * Talks will be pre-recorded in advance, and streamed during the event.
 * Q/A session will happen live
-* A facility will be provided for people watching to chat between themselves
-* A facility will be provided for people watching to submit questions
+* Functionality will be provided for people watching to chat between themselves
+* Functionality will be provided for people watching to submit questions
 
 More details about the event can be found at https://fosdem.org/.
 
