@@ -25,11 +25,12 @@ Suggested presentation topics:
 
 ## Submission process
 
-Please submit your proposals at https://forms.gle/StPeGeamUdjr6otV7 before December 16 2020.
+Please submit your proposals at https://forms.gle/StPeGeamUdjr6otV7 before 23 December 2020.
 
 ## Important dates
 
 - **December 16 2020** deadline for submitting talk proposals
+- **December 23 2020** extended deadline for submitting talk proposals
 - **January 15 2020** deadline for uploading pre-recorded talks
 - **Conference dates 6 & 7 February 2021 online**
 - **Sunday February 7th 2021** Web Performance devroom at FOSDEM21 **online**!
